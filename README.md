@@ -1,14 +1,9 @@
 # Color_palette_generator
 
-### Domain: ### Design
-Web application where user need to upload their website template
-and he will be given the analysis report of what all UI principles are getting violated and user can get
-a colour palette suggestion based on the description of what his/her website is about. And user can
-apply those palettes on the templates available on website.
+User can get the colour palette suggestion from which he can select which palette he/she will be using. Also, user can upload images and we can get the colour palette out of it. The user can see how the colour palette looks by applying them on the templates available on the web application.
 
-Objectives:
-• To help user in understanding their UI.
-• To give the report of what all UI principles and getting violated and what all principles are
-missing.
-• To help user in identifying the best colour palette for his website based on his description
-• To help user better understand the colour palette by applying them on different palettes
+### Functional requirements:
+• Different colour palette should be generated when user clicks on generate button.
+• User should be able to upload the images.
+• Colour palette should be extracted from the image uploaded by the user.
+• The colour palette should be applied to the template.
