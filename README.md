@@ -1,6 +1,6 @@
 # Color_palette_generator
 
-### Domain: Design
+### Domain: ### Design
 Web application where user need to upload their website template
 and he will be given the analysis report of what all UI principles are getting violated and user can get
 a colour palette suggestion based on the description of what his/her website is about. And user can
